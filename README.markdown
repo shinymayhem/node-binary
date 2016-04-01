@@ -8,7 +8,15 @@ This module is a cleaner and more complete version of
 [bufferlist](https://github.com/substack/node-bufferlist)'s binary module that
 runs on pre-allocated buffers instead of a linked list.
 
-[![build status](https://secure.travis-ci.org/substack/node-binary.png)](http://travis-ci.org/substack/node-binary)
+Installation
+============
+
+To install with [npm](http://github.com/npm/npm):
+
+```
+npm install binary@shinymayhem/node-binary#0.4.0
+```
+
 
 examples
 ========
@@ -314,15 +322,6 @@ console.log("outer:", vars);
 
 //inner { postFlush: 80, postFlush2: 11 }
 //outer: { preFlush: 5 } //not sure why
-```
-
-installation
-============
-
-To install with [npm](http://github.com/npm/npm):
-
-```
-npm install binary@Casear/node-binary
 ```
 
 notes

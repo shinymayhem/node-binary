@@ -1,11 +1,11 @@
 {
-    "name" : "binary",
-    "version" : "0.3.0",
+    "name" : "shiny-binary",
+    "version" : "0.4.0",
     "description" : "Unpack multibyte binary values from buffers",
     "main" : "./index.js",
     "repository" : {
         "type" : "git",
-        "url" : "http://github.com/substack/node-binary.git"
+        "url" : "http://github.com/shinymayhem/node-binary.git"
     },
     "keywords": [
         "binary",

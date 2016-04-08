@@ -14,8 +14,10 @@ Installation
 To install with [npm](http://github.com/npm/npm):
 
 ```
-npm install binary@shinymayhem/node-binary#0.4.0
+npm install @shinymayhem/binary
 ```
+
+[read about npm namespaces](http://blog.npmjs.org/post/116936804365/solving-npms-hard-problem-naming-packages)
 
 
 examples
